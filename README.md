@@ -11,7 +11,7 @@
 
 A powerful Discord music bot with LavaLink integration, featuring support for YouTube and Spotify, playlists, favorites, and much more!
 
-[**Discord Server**](https://discord.gg/TGF3fCXtRm) • [**Report Bug**](https://github.com/faisalg1t/Groove-Music/issues) • [**Request Feature**](https://github.com/faisalg1t/Groove-Music/issues)
+[**Discord Server**](https://discord.gg/TGF3fCXtRm) • [**Report Bug**](https://github.com/faisaljs/Groove-Music/issues) • [**Request Feature**](https://github.com/faisaljs/Groove-Music/issues)
 
 </div>
 
@@ -99,7 +99,7 @@ A powerful Discord music bot with LavaLink integration, featuring support for Yo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/faisalg1t/Groove-Music.git
+   git clone https://github.com/faisaljs/Groove-Music.git
    cd Groove-Music
    ```
 
@@ -235,9 +235,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Groove Music** is developed and maintained by **[Eleone Hub](https://discord.gg/TGF3fCXtRm)**
 
 #### Lead Developer
-- **Faisal** (faisalg1t)
+- **Faisal** (faisaljs)
   - Discord: `alex.jsz`
-  - Portfolio: [faisal.dev](https://faisalg1t.github.io/portfolio)
+  - Portfolio: [faisal.dev](https://faisaljs.github.io/portfolio)
 
 ### Built With
 - [Discord.js](https://discord.js.org/) - Discord API library
@@ -257,7 +257,7 @@ Need help? Join our community!
 
 - **Discord Server**: [https://discord.gg/TGF3fCXtRm](https://discord.gg/TGF3fCXtRm)
 - **Developer Contact**: Discord @ `alex.jsz`
-- **Portfolio**: [faisal.dev](https://faisalg1t.github.io/portfolio)
+- **Portfolio**: [faisal.dev](https://faisaljs.github.io/portfolio)
 
 ---
 
@@ -278,7 +278,7 @@ This bot is for educational and entertainment purposes. Please respect copyright
 **Made with ❤️ by [Eleone Hub](https://discord.gg/TGF3fCXtRm)**
 
 [![Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TGF3fCXtRm)
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faisalg1t.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faisaljs.github.io/portfolio)
 
 **If you like this project, please consider giving it a ⭐ on GitHub!**
 
