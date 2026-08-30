@@ -237,7 +237,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 #### Lead Developer
 - **Faisal** (faisaljs)
   - Discord: `alex.jsz`
-  - Portfolio: [faisal.dev](https://faisaljs.github.io/portfolio)
+  - Portfolio: [faisal.dev](https://faisaljs.github.io)
 
 ### Built With
 - [Discord.js](https://discord.js.org/) - Discord API library
@@ -257,7 +257,7 @@ Need help? Join our community!
 
 - **Discord Server**: [https://discord.gg/TGF3fCXtRm](https://discord.gg/TGF3fCXtRm)
 - **Developer Contact**: Discord @ `alex.jsz`
-- **Portfolio**: [faisal.dev](https://faisaljs.github.io/portfolio)
+- **Portfolio**: [faisal.dev](https://faisaljs.github.io)
 
 ---
 
@@ -278,7 +278,7 @@ This bot is for educational and entertainment purposes. Please respect copyright
 **Made with ❤️ by [Eleone Hub](https://discord.gg/TGF3fCXtRm)**
 
 [![Discord](https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TGF3fCXtRm)
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faisaljs.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faisaljs.github.io)
 
 **If you like this project, please consider giving it a ⭐ on GitHub!**
 
