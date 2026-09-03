@@ -11,9 +11,36 @@
 
 A powerful Discord music bot with LavaLink integration, featuring support for YouTube and Spotify, playlists, favorites, and much more!
 
-[**Discord Server**](https://discord.gg/TGF3fCXtRm) • [**Report Bug**](https://github.com/faisaljs/Groove-Music/issues) • [**Request Feature**](https://github.com/faisaljs/Groove-Music/issues)
+[**Discord Server**](https://discord.gg/TGF3fCXtRm) • [**Bot-Hosting.net**](https://bot-hosting.net/?aff=alex) • [**Report Bug**](https://github.com/faisaljs/Groove-Music/issues) • [**Request Feature**](https://github.com/faisaljs/Groove-Music/issues)
 
 </div>
+
+---
+
+## 🚀 Deploy on Bot-Hosting.net
+
+Want to host **Groove Music** without setting up your own server? You can easily deploy it using **Bot-Hosting.net**.
+
+## 💙 Get Started
+
+👉 [**Click Here**](https://bot-hosting.net/?aff=alex) to create free **Bot-Hosting.net** account.
+
+**After creating your account:**
+
+1. Go to the **Templates** section in your Bot-Hosting.net dashboard.
+2. Search for **Groove-Music**.
+3. Select the **Groove-Music** template.
+4. Deploy the template to your server.
+5. Configure your required environment variables, including your Discord bot token and LavaLink credentials.
+6. Start your bot and you're ready to enjoy **Groove Music**! 🎵
+
+> 💡 **New to Bot-Hosting.net?** Use the button above to create your account, then find **Groove-Music** in the **Templates** section.
+
+## 🎶 Quick & Easy
+
+**Create Account → Templates → Groove-Music → Deploy → Configure → Start**
+
+Enjoy hosting Groove Music on Bot-Hosting.net! 💙
 
 ---
 
